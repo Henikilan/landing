@@ -1,0 +1,354 @@
+@media only screen and (max-width: 1260px) {
+    .header {
+        height: 57px;
+        display: flex;
+        align-items: center;
+    }
+    .header .container {
+        padding: 0;
+    }
+    .logo {
+        font-size: 11px;
+        margin: 0 auto;
+    }
+    .header nav {
+        display: none;
+    }
+    .header-button {
+        display: none;
+    }
+    .phone {
+        color: white;
+        text-decoration: none;
+        margin-left: 84px;
+    }
+    .title {
+        font-size: 22px;
+    }
+    .home_title {
+        font-size: 23px;
+        line-height: 9px;
+        margin-bottom: 5px;
+    }
+    .jumbotron_text {
+        font-size: 14px;
+        margin: 0 0 42px;
+    }
+    .control {
+        margin: 0 auto;
+        padding-top: 34px;
+    }
+    .jumbotron {
+        display: flex;
+        flex-direction: column;
+        margin: 94px auto 0 auto;
+        height: 476px;
+    }
+    .home {
+        height: 476px;
+    }
+    .container {
+        max-width: 340px;
+    }
+    .jumbotron_text {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .home-button {
+        height: 51px;
+        width: 339px;
+        margin-top: 27px;
+    }
+    .projects {
+        margin: 0;
+        padding: 1px 0;
+        background-color: #131313;
+    }
+    .completed_projects .project_title {
+        margin: 34px auto 0 auto;
+        font-size: 22px;
+        line-height: 30px;
+        text-align: center;
+        letter-spacing: -0.07em;
+    }
+    .projects_text {
+        margin: 27px auto 0 auto;
+        font-size: 11px;
+        line-height: 17px;
+        text-align: center;
+        width: 300px;
+    }
+    .picture {
+        margin: 0;
+        display: block;
+    }
+    .arrow_left {
+        display: none;
+    }
+    .completed_projects {
+        margin: 0;
+    }
+    .photo {
+        display: none;
+    }
+    .mobile_photo {
+        display: block;
+        margin-top: 39px;
+    }
+    .description {
+        margin-top: 37px;
+    }
+    .description-item {
+        font-size: 11px;
+        line-height: 15px;
+    }
+    .title.mobile_title {
+        font-size: 14px;
+        line-height: 19px;
+        margin: 0 auto 8px auto;
+    }
+    .description .mobile_block {
+        width: 161px;
+        margin-bottom: 23px;
+    }
+    .themes {
+        display: none;
+    }
+    .video {
+        width: 340px;
+        height: 207px;
+        background-size: cover;
+        margin: 39px auto 0 auto;
+    }
+    .play_button {
+        width: 37px;
+        height: 37px;
+        background: #E3B873 url(img/butIcon.svg) no-repeat 15px center;
+    }
+    .online_control {
+        background-color: #131313;
+        margin: 0 auto;
+        padding-bottom: 39px;
+    }
+    .hr {
+        margin-top: 18px;
+        margin-bottom: 36px;
+    }
+    .control_hr {
+        margin-top: 27px;
+    }
+    .control_text {
+        font-size: 11px;
+        line-height: 19px;
+        text-align: center;
+        color: #FFFFFF;
+        width: auto;
+        margin: 20px auto 0 auto;
+    }
+    .form-online {
+        width: auto;
+        margin: 70px auto 0 auto;
+    }
+    .form-label {
+        color: rgba(255, 255, 255, 0.5);
+    }
+    .middle {
+        margin: 59px auto 44px auto;
+    }
+    .form-item {
+        color: white;
+        background-color: #131313;
+        border-bottom: 1px solid white;
+        width: 340px;
+    }
+    .form-button {
+        width: 340px;
+        height: 51px;
+        font-size: 13px;
+        line-height: 27px;
+        position: relative;
+        top: 64px;
+    }
+    .checkbox-online {
+        margin: -68px 0 0 0
+    }
+    .checkbox-online label {
+        color: white;
+    }
+    .types {
+        margin: 82px auto 0 auto;
+        background: none;
+    }
+    .types_items {
+        flex-wrap: wrap;
+        margin: 0 auto;
+    }
+    .types_item {
+        width: 340px;
+        margin-bottom: 178px;
+        height: 365px;
+        background-size: cover;
+    }
+    .types_text {
+        width: 270px;
+        height: 241px;
+        margin: 222px 0 0 0;
+    }
+    .types_text li {
+        font-size: 13px;
+        line-height: 22px;
+    }
+    .types_text h3 {
+        font-size: 15px;
+        line-height: 21px;
+    }
+    .price {
+        width: 190px;
+        height: 40px;
+        margin: -19px 0 0 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .price h3 {
+        font-size: 15px;
+        line-height: 21px;
+        padding: 0;
+    }
+    .mobile_none {
+        display: none;
+    }
+    .measurement {
+        display: none;
+    }
+    .discount {
+        display: none;
+    }
+    .gallery_two {
+        display: none;
+    }
+    .gallery_three {
+        display: none;
+    }
+    .gallery_styles {
+        display: none;
+    }
+    .fantasies {
+        background: none;
+        position: static;
+        height: auto;
+        margin: 0;
+    }
+    .reviews {
+        display: none;
+    }
+    .gallery {
+        display: block;
+    }
+    .gallery_title {
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        line-height: 30px;
+    }
+    .last_section {
+        position: static;
+        background: #131313;
+        margin: -121px auto 0 auto;
+        padding-bottom: 30px;
+        height: auto;
+    }
+    .adress_form {
+        margin: 0;
+        width: auto;
+        height: auto;
+        padding-top: 122px;
+    }
+    .adress_title {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .gallery_one {
+        flex-grow: 1;
+        margin-top: -5px;
+    }
+    .mobile_photo2 {
+        display: block;
+        margin-top: 31px;
+        z-index: 1;
+    }
+    .form_box {
+        width: auto;
+        margin-top: 47px;
+    }
+    .adress input {
+        width: 340px;
+        padding-bottom: 2px;
+    }
+    .adress .question {
+        width: 340px;
+    }
+    .adress-item {
+        margin-bottom: 59px;
+    }
+    .question_item {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .adress_checkbox {
+        margin: 21px 0 0 0;
+        text-align: left;
+    }
+    .adress_button {
+        width: 340px;
+        height: 51px;
+        margin-top: 63px;
+    }
+    .mobile_map {
+        display: block;
+        width: 340px;
+        height: 255px;
+        margin: 46px auto 0 auto;
+    }
+    .contact_details {
+        font-size: 18px;
+        line-height: 25px;
+        margin: 40px auto 0 auto;
+        width: 340px;
+    }
+    .mobile_hide {
+        display: inline;
+    }
+    .map {
+        display: none;
+    }
+    .footer {
+        display: none;
+    }
+    .contact_icons {
+        display: none;
+    }
+    .mob_icons {
+        display: flex;
+        justify-content: center;
+        margin-top: 21px;
+    }
+    .mob_icon {
+        margin-right: 11px;
+    }
+    .mob_block {
+        display: block;
+        position: relative;
+    }
+    .arr_left {
+        position: absolute;
+        top: 103px;
+        left: 13px;
+        transform: rotate(180deg);
+    }
+    .arr_right {
+        position: absolute;
+        top: 103px;
+        right: 13px;
+    }
+}
