@@ -42,10 +42,10 @@
 
       <section class="projects" id="projects">
         <div class="container">
-          <ul class="themes">
-            <li class="active"><a class="title" href="#">Rostov-on-Don, Admiral</a></li>
-            <li><a class="title" href="#">Sochi Thieves</a></li>
-            <li><a class="title" href="#">Rostov-on-Don Patriotic</a></li>
+          <ul class="themes" id="themes">
+            <li class="active"><a class="title">Rostov-on-Don, Admiral</a></li>
+            <li><a class="title">Sochi Thieves</a></li>
+            <li><a class="title">Rostov-on-Don Patriotic</a></li>
           </ul>
           <div class="picture">
             <div class="completed_projects">
@@ -81,17 +81,17 @@
                 </div>
               </div>
             </div>
-            <img class="photo" src="img/image3.png" alt="Картинка" width="679" height="482">
+            <img class="photo" id="photo" src="img/image3.png" alt="Картинка" width="679" height="482">
           </div>
 
           <div class="arrow_left">
-            <img src="img/arrowLeft.svg" alt="arrow">
-            <div class="rounds">
-              <div class="round"></div>
+            <img class="left" id="left" src="img/arrowLeft.svg" alt="arrow">
+            <div class="rounds" id="rounds">
+              <div class="round active"></div>
               <div class="round"></div>
               <div class="round"></div>
             </div>
-            <img src="img/arrowRight.svg" alt="arrow">
+            <img class="right" id="right" src="img/arrowRight.svg" alt="arrow">
           </div>
         </div>
       </section>
@@ -427,5 +427,6 @@
       <button class="button header-button">Request a call</button>
     </div>
   </footer>
+  <script src="script.js"></script>
 </body>
 </html>
