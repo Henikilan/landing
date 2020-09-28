@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4f9cd3-c225-44a6-badd-1cd27c9e31e3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles_mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles_mobile.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +72,16 @@
       <option name="presentableId" value="Default" />
       <updated>1598714388431</updated>
       <workItem from="1598714389455" duration="46187000" />
-      <workItem from="1600699207085" duration="7997000" />
+      <workItem from="1600699207085" duration="11190000" />
     </task>
+    <task id="LOCAL-00001" summary="workspace">
+      <created>1600884132937</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600884132937</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,18 +98,26 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="781" y="359" key="SettingsEditor" timestamp="1600883988384">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="781" y="359" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1600883988384" />
+    <state x="880" y="447" key="Vcs.Push.Dialog.v2" timestamp="1600884392035">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="880" y="447" key="Vcs.Push.Dialog.v2/0.0.2560.1440@0.0.2560.1440" timestamp="1600884392035" />
     <state x="1085" y="616" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600883829096">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1085" y="616" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1600883829096" />
-    <state x="943" y="329" width="672" height="678" key="search.everywhere.popup" timestamp="1600883354550">
+    <state x="943" y="329" width="672" height="678" key="search.everywhere.popup" timestamp="1601317802677">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="943" y="329" width="672" height="678" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1600883354550" />
+    <state x="943" y="329" width="672" height="678" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1601317802677" />
   </component>
 </project>
