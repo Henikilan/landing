@@ -3,19 +3,19 @@ const entities = [
     img: "img/image3.png",
     city: "Rostov-on-don<br>LCD admiral",
     time: "3.5 months",
-    area: "81 m2",
+    area: "81 m2"
   },
   {
     img: "img/sochi.jpg",
     city: "Sochi<br>Thieves",
     time: "4 months",
-    area: "105 m2",
+    area: "105 m2"
   },
   {
     img: "img/rostov.jpg",
     city: "Rostov-on-don<br>Patriotic",
     time: "3 months",
-    area: "93 m2",
+    area: "93 m2"
   },
 ];
 const $img = document.getElementById("photo");

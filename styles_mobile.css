@@ -264,6 +264,7 @@
         width: auto;
         height: auto;
         padding-top: 122px;
+        position: static;
     }
     .adress_title {
         font-size: 20px;
