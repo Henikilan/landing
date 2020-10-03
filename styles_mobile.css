@@ -28,7 +28,7 @@
     .home_title {
         font-size: 23px;
         line-height: 9px;
-        margin-bottom: 5px;
+        margin: 97px 0 5px 0;
     }
     .jumbotron_text {
         font-size: 14px;
@@ -41,9 +41,10 @@
     .jumbotron {
         display: flex;
         flex-direction: column;
-        margin: 94px auto 0 auto;
+        margin: 0 auto 0 auto;
         height: 476px;
         width: auto;
+        position: static;
     }
     .home {
         height: 476px;
